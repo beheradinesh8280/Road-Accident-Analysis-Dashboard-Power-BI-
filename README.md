@@ -168,7 +168,7 @@ Interactive map showing accident distribution across regions.
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard](https://github.com/beheradinesh8280/Road-Accident-Analysis-Dashboard-Power-BI-/blob/main/Dashboard.png)
 <p align="center">
   <img src="images/road_accident_dashboard.png" width="800"/>
 </p>
