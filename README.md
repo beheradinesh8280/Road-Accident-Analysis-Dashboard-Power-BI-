@@ -217,11 +217,3 @@ This dashboard can help:
 
 This project demonstrates how **data analytics can improve road safety** by identifying patterns, risks, and actionable insights from accident data.
 
----
-
-## 🔗 Connect
-
-**Dinesh Kumar Behera**  
-👉 LinkedIn: https://www.linkedin.com/in/dinesh-kumar-b8b977346/
-
----
